@@ -6,8 +6,6 @@
 ![tictactoeGame](tictactoeGame.PNG)
 ![tictactoeDraw](tictactoeDraw.png)
 
-# Tic Tac Toe Game - Unity Project
-
 ## Descriere
 Acest proiect reprezinta un joc simplu de **Tic Tac Toe** realizat in **Unity**, implementat folosind principii solide de **programare orientata pe obiect** si doua **design patterns**: **Singleton** si **Observer**.  
 Scopul acestui proiect este de a demonstra utilizarea corecta si integrata a acestor pattern-uri in logica jocului, asigurand astfel o structura curata si extensibila.  
